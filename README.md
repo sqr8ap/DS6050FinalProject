@@ -1,4 +1,4 @@
-# DS6050FinalProject
+# DS6050 Final Project
 
 ## Detecting Pulmonary Disease from Respiratory Audio: Convolutional Neural Networks for Medical Diagnostics
 
